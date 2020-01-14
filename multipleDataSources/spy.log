@@ -1,0 +1,3 @@
+1578896776382|6|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/sys?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=GMT|SELECT  id,name,age,email  FROM user|SELECT  id,name,age,email  FROM user
+1578896944239|129|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/sys?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=GMT|SELECT  id,name,age,email  FROM user|SELECT  id,name,age,email  FROM user
+1578897477085|7|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/sys?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=GMT|SELECT  id,name,age,email  FROM user|SELECT  id,name,age,email  FROM user
